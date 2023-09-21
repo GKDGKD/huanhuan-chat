@@ -215,3 +215,8 @@ fabric.properties
 
 # logs
 log/result
+
+# KG 
+KG/*.ipynb
+KG/*.txt
+KG/test_UIE.py
